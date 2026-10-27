@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/earloflemonog89/github-actions-basics/app:latest
+          tags: ghcr.io/earloflemongrab89/github-actions-basics/app:latest
